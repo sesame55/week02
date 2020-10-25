@@ -1,0 +1,29 @@
+$fz: 16px; //字型大小
+
+h1 {
+    font-size: $fz * 5;
+    line-height: 94px;
+}
+h2 {
+    font-size: $fz * 4;
+    line-height: 75px;
+}
+.fz-20 {
+    font-size: 20px;
+}
+.fz-24 {
+    font-size: 24px;
+}
+.lh-30 {
+    line-height: 30px;
+}
+.lh-42 {
+    line-height: 42px;
+}
+.lh-36 {
+    line-height: 36px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
