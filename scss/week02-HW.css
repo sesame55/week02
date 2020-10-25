@@ -194,6 +194,7 @@ a {
 h1 {
   font-size: 80px;
   line-height: 94px;
+  font-weight: 900;
 }
 
 h2 {
@@ -223,6 +224,10 @@ h2 {
 
 .fw-bold {
   font-weight: bold;
+}
+
+.fw-900 {
+  font-weight: 900;
 }
 
 body {

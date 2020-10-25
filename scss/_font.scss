@@ -3,6 +3,7 @@ $fz: 16px; //字型大小
 h1 {
     font-size: $fz * 5;
     line-height: 94px;
+    font-weight: 900;
 }
 h2 {
     font-size: $fz * 4;
@@ -26,4 +27,7 @@ h2 {
 
 .fw-bold {
     font-weight: bold;
+}
+.fw-900 {
+    font-weight: 900;
 }
